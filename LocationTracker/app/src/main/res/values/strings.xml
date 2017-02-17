@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="options">Options</string>
+    <string name="updates">Updates</string>
+
+    <string name="network">Network</string>
+    <string name="gps">GPS</string>
+    <string name="passive">Passive</string>
+
+    <string name="specified_provider">Specified provider</string>
+    <string name="criteria_best_provider">Criteria best provider</string>
+
+    <string name="update_type">Update type</string>
+    <string name="single">Single</string>
+    <string name="periodical">Periodical</string>
+
+    <string name="update_options">Updates options</string>
+    <string name="minimum_time_between_updates">Minimum time between updates (milliseconds)</string>
+    <string name="minimum_distance_between_updates">Minimum distance between updates (meters)</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="service">Service</string>
+    <string name="additional_service">Additional service</string>
+</resources>
