@@ -85,7 +85,7 @@ locationService.requestLocationUpdate(LocationManager.NETWORK_PROVIDER);
 
 <hr />
 
-<p>Here is an example for requesting periodical location updates with specified provider and time and distance between updates:</p>
+<p>Here is an example for requesting periodical location updates with specified provider and time and distance between them:</p>
 <ul>
   <li>Provider: GPS</li>
   <li>Minimum time interval between location updates, in milliseconds: 60000 (60 seconds, 1 minute)</li>
@@ -113,7 +113,7 @@ locationService.requestLocationUpdate(criteria, true);
 
 <hr />
 
-<p>Here is an example for requesting periodical location updates with criteria best provider:</p>
+<p>Here is an example for requesting periodical location updates with criteria best provider and time and distance between them:</p>
 <ul>
   <li>Criteria: Fine accuracy</li>
   <li>Provider: true; "true" for currently enabled location provider, "false" for not. When using "true" as a value, make sure that the device location is enabled.</li>
