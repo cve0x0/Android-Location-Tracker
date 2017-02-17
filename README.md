@@ -140,15 +140,12 @@ locationService.requestLocationUpdates(criteria, true, 6000, 20);
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 ```
 
-<h2>Screenshots</h2>
-<img src="https://raw.githubusercontent.com/n37bl4d3/Android-Location-Tracker/master/Screenshots/Screenshot1.png" width="320" />
-<img src="https://raw.githubusercontent.com/n37bl4d3/Android-Location-Tracker/master/Screenshots/Screenshot2.png" width="320" />
-
 <h2>APK</h2>
 <a href="https://github.com/n37bl4d3/Android-Location-Tracker/raw/master/app-debug.apk" target="_blank">Download (Unsigned)</a>
 
-<h2>Contributors</h2>
-<a href="https://github.com/n37bl4d3/" target="_blank">n37bl4d3</a> (Viliyan Vasilev)
+<h2>Screenshots</h2>
+<img src="https://raw.githubusercontent.com/n37bl4d3/Android-Location-Tracker/master/Screenshots/Screenshot1.png" width="320" />
+<img src="https://raw.githubusercontent.com/n37bl4d3/Android-Location-Tracker/master/Screenshots/Screenshot2.png" width="320" />
 
 <h2>License</h2>
 <p>This project is released under the The GNU General Public License v3.0. See "LICENSE" file for further information.</p>
