@@ -352,7 +352,6 @@ public class OptionsTabFragment extends Fragment implements TabLayoutInterface {
                                             dialog.dismiss();
                                         }
                                     });
-                                    builder.setCancelable(false);
                                     builder.show();
                                 }
                             } else if (mSpecifiedProviderRadioGroupProviderGpsRadioButton.isChecked()) {
@@ -364,7 +363,6 @@ public class OptionsTabFragment extends Fragment implements TabLayoutInterface {
                                             dialog.dismiss();
                                         }
                                     });
-                                    builder.setCancelable(false);
                                     builder.show();
                                 }
                             } else if (mSpecifiedProviderRadioGroupProviderPassiveRadioButton.isChecked()) {
@@ -376,7 +374,6 @@ public class OptionsTabFragment extends Fragment implements TabLayoutInterface {
                                             dialog.dismiss();
                                         }
                                     });
-                                    builder.setCancelable(false);
                                     builder.show();
                                 }
                             }
